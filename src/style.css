@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 
+
 #card{
     background-image: url(../img/fundo-card03.jpg);
     background-size: cover;
@@ -48,4 +49,14 @@
     text-align: left;
     
     font-family: 'Patrick Hand', cursive;
+}
+
+#page {
+    position: relative;
+    width: 100%;
+}
+
+#card {
+    width: 100%;
+    height: auto;
 }
